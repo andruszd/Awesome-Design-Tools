@@ -30,7 +30,7 @@
     "tinycolor2": "^1.4.1"
   },
   "dependencies": {
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^13.0.2",
     "showdown": "^1.9.1"
   }
 }
